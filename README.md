@@ -1,4 +1,4 @@
 ﻿# ConvVAEFaceGeneration
 
 
-![Screenshot]results.jpg)
+![Screenshot](results.jpg)
